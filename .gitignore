@@ -1,0 +1,7 @@
+*.rds
+*.RData
+*.Rhistory
+*.Rproj
+*.Rproj*
+.DS_Store
+
