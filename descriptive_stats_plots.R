@@ -1,7 +1,6 @@
 library("highfrequency")
 library("xts")
 
-# setwd("~/../Dropbox/Veli/actualR")
 mTable<-read.table("EURJPY",header=F,sep=",")
 sapply(mTable,class)
 #unique(mTable[,4])
